@@ -1,0 +1,4 @@
+TMP/
+__pycache__/
+.env
+desktop.ini
